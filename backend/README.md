@@ -5,6 +5,12 @@ A “Node.js” Application using Express Framework and MongoDB Database and
 Connected it to Frontend application developed using ReactJS.
 
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file (you need to provide your valid Mongodb Connection String)
+
+`MONGODB_ATLAS`
+
 
 
 ## Run Locally
